@@ -76,10 +76,7 @@ Throughout this project, the following were accomplished:
 
 ### 🖼️ Dashboard Preview
 
-Here’s a preview of the **Madhav Store Sales Dashboard**:
-
-![Dashboard Preview](./Madhav_Store_Sales_Dashboard.png)
-
+![Dashboard Preview](https://github.com/JanviDhonde/PowerBi-MadhavStore-SalesDashboard/blob/main/Madhav%20Store%20Sales%20Dashboard.png)
 
 ### 🌟 Why This Project Matters
 
